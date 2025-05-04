@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "0.1",
+    "name": "Pinterest arrow navigation",
+    "permissions": [],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "images/pfp.png"
+    }
+}
