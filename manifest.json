@@ -3,8 +3,29 @@
     "version": "0.1",
     "name": "Pinterest arrow navigation",
     "permissions": [],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.pinterest.com/*"
+            ],
+            "exclude_matches": [
+                "https://*.pinterest.com/pin/"
+            ],
+            "js": [
+                "pins.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://*.pinterest.com/pin/*"
+            ],
+            "js": [
+                "index.js"
+            ]
+        }
+    ],
     "action": {
         "default_popup": "index.html",
-        "default_icon": "images/pfp.png"
+        "default_icon": "images/icon.png"
     }
 }
