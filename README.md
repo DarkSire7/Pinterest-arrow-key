@@ -1,5 +1,14 @@
 Navigate pinterest using your arrow keys using this extension.
 
+Installation guide:
+
+Download the files into a single folder
+Go to your respective browser extension settings 
+Enable developer mode 
+Click load unpacked and choose the folder 
+Enable the extension 
+Enjoy!
+
 Update log:
 
 Version 1:
