@@ -11,7 +11,13 @@ Enjoy!
 
 Update log:
 
+Version 2.0;
+1. No limit, infinite scroll
+2. Wait on the home page for 6-7 seconds before opening any pin.
+3. If you want a certain pin to not affect the future recommendation don't linger on it.
+4. Refresh home/board page to load new set of pins and clear the previous data.
+
 Version 1.0:
 
 1. Limit of 15-20 pins using arrow keys before having to refresh
-2. wait on the home page for 6-7 seconds before opening any pin.
+2. Wait on the home page for 6-7 seconds before opening any pin.
