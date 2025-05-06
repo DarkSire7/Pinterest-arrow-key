@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "version": "0.1",
+    "version": "1.0",
     "name": "Pinterest arrow navigation",
     "permissions": [],
     "host_permissions": [
@@ -15,5 +15,13 @@
                 "pins.js"
             ]
         }
-    ]
+    ],
+    "action": {
+        "default_icon": "images/p.png"
+    },
+    "icons": {
+        "16": "images/p.png",
+        "48": "images/p.png",
+        "128": "images/p.png"
+    }
 }
