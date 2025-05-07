@@ -22,3 +22,8 @@ Version 1.0:
 
 1. Limit of 15-20 pins using arrow keys before having to refresh
 2. Wait on the home page for 6-7 seconds before opening any pin.
+
+
+Download link:
+1- File url: https://github.com/DarkSire7/Pinterest-arrow-key
+2- Paste the file url into https://download-directory.github.io/
