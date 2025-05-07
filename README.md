@@ -25,5 +25,7 @@ Version 1.0:
 
 
 Download link:
-1- File url: https://github.com/DarkSire7/Pinterest-arrow-key
+1- File url:
+for chrome: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforchrome
+for firefox: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforfirefox
 2- Paste the file url into https://download-directory.github.io/
