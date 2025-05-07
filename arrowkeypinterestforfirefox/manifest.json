@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "Pinterest arrow navigation",
+    "permissions": [],
+    "host_permissions": [
+        "https://*.pinterest.com/*"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "pinterest_navigator@akif.dev"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.pinterest.com/*"
+            ],
+            "js": [
+                "pins.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_icon": "images/P.png"
+    },
+    "icons": {
+        "16": "images/P.png",
+        "48": "images/P.png",
+        "128": "images/P.png"
+    }
+}
