@@ -1,13 +1,18 @@
 Navigate pinterest using your arrow keys using this extension.
 
+<hr>
+
 Installation guide:
 
--Download the files into a single folder
--Go to your respective browser extension settings 
--Enable developer mode 
--Click load unpacked and choose the folder 
--Enable the extension 
--Enjoy!
+-Download the file <br>
+-Extract <br>
+-Go to your respective browser extension settings <br> 
+-Enable developer mode <br>
+-Click load unpacked and choose the folder <br> 
+-Enable the extension <br>
+-Enjoy!<br>
+
+<hr>
 
 Update log:
 
@@ -23,10 +28,12 @@ Version 1.0:
 1. Limit of 15-20 pins using arrow keys before having to refresh
 2. Wait on the home page for 6-7 seconds before opening any pin.
 
+<hr>
 
 Download link:
 
-For firefox: https://addons.mozilla.org/en-GB/firefox/addon/pinterest-arrow-navigation/
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/pinterest-arrow-navigation/">Install on firefox<a/>  <br>
+
 1- File url:
-for chrome: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforchrome
+for chrome: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforchrome <br>
 2- Paste the file url into https://download-directory.github.io/
