@@ -25,7 +25,8 @@ Version 1.0:
 
 
 Download link:
+
+For firefox: https://addons.mozilla.org/en-GB/firefox/addon/pinterest-arrow-navigation/
 1- File url:
 for chrome: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforchrome
-for firefox: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforfirefox
 2- Paste the file url into https://download-directory.github.io/
