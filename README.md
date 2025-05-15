@@ -34,6 +34,5 @@ Download link:
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/pinterest-arrow-navigation/">Install on firefox<a/>  <br>
 
-1- File url:
-for chrome: https://github.com/DarkSire7/Pinterest-arrow-key/tree/main/arrowkeypinterestforchrome <br>
-2- Paste the file url into https://download-directory.github.io/
+
+<a href="https://chromewebstore.google.com/detail/pinterest-arrow-navigation/">Install on Chrome<a/>
