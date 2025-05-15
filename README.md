@@ -35,4 +35,4 @@ Download link:
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/pinterest-arrow-navigation/">Install on firefox<a/>  <br>
 
 
-<a href="https://chromewebstore.google.com/detail/pinterest-arrow-navigation/">Install on Chrome<a/>
+<a href="https://chromewebstore.google.com/detail/pinterest-arrow-navigatio/">Install on Chrome<a/>
